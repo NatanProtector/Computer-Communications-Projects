@@ -1,7 +1,3 @@
-Here’s the updated README:  
-
----
-
 # Computer Communications Projects  
 
 This repository contains projects developed as part of my Computer Communications course. These projects demonstrate my understanding of networking concepts, multi-threading, and HTTP protocol implementation. All projects were developed in C and are designed to run on Linux systems.  
